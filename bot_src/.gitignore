@@ -1,0 +1,13 @@
+node_modules/
+.env
+richstore/pairing/
+richstore/auth.json
+database/ndarnox.json
+database/users.json
+database/settings.json
+database/database.json
+database/aquizz.json
+setting.json
+tmp/
+sticker/
+*.bak
